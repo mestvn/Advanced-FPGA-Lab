@@ -1,5 +1,7 @@
-# lab-3-early-debouncer-duoq
-lab-3-early-debouncer-duoq created by GitHub Classroom
+# Lab 3: Early Detection Debouncing Circuit
+
+DEMO: temp.link
+> **NOTE: Didn't get to record circuit wise, so there's a testbench!**
 
 ## Part 1: State Diagram & ASM Chart
 They should look quite similar, noting that zero and one are asynchronous, and their waiting states are synchronous with the 10ms m_tick.
