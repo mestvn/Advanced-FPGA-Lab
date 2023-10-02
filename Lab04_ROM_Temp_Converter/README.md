@@ -1,7 +1,8 @@
 # Lab 4: ROM-based Temperature Conversion
 
 DEMO: https://youtube.com/shorts/TGaWkNJq7ZI?feature=share
-![Block Diagram]https://github.com/mestvn/Advanced-FPGA-Lab/blob/main/Lab04_ROM_Temp_Converter/block_diagram.png
+
+![Block Diagram](https://github.com/mestvn/Advanced-FPGA-Lab/blob/main/Lab04_ROM_Temp_Converter/block_diagram.png)
 
 ## ROMs:
 Two 256 rows of 8-bit .mem lookup tables:
