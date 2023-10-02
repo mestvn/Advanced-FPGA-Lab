@@ -5,6 +5,7 @@ DEMO: temp.link
 
 ## Part 1: State Diagram & ASM Chart
 They should look quite similar, noting that zero and one are asynchronous, and their waiting states are synchronous with the 10ms m_tick.
+![State Diagram & ASM Chart](https://github.com/mestvn/Advanced-FPGA-Lab/blob/main/Lab03_Early_Debouncer/early_db.png)
 
 ## Part 2: Develop Code
 - ticker.sv creates the 10ms m_tick with a counter.
