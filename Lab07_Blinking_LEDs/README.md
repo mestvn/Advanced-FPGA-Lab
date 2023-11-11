@@ -1,6 +1,6 @@
 # Lab 7: Blinking LEDs
 
-Demo: https://youtube.com/shorts/ppcT2OD06Y8?feature=share
+DEMO: https://youtube.com/shorts/ppcT2OD06Y8?feature=share
 
 ## HDL for 1 LED:
 Created top_led.sv which takes a 16-bit input for millisecondss & consists of a modulo-1ms counter that triggers a modulo 1-milliseconds counter which then triggers a T flip-flop that controls an LED.
