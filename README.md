@@ -9,6 +9,6 @@ https://www.youtube.com/@mestvnvo
 
 **Part Number:** xc7a100tcsg324-1
 
-**IDE:** Xilinx's Vivado Design Suite
+**IDE:** Xilinx's Vivado Design Suite & Vitis
 
 **XDC File Reference:** https://github.com/Digilent/digilent-xdc/blob/master/Nexys-A7-100T-Master.xdc#L10
