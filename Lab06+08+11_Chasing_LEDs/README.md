@@ -1,7 +1,9 @@
 # Lab 6,8,11: Chasing LEDs, with Potentiometer, with Mous
 
 DEMO Lab 6 (Switches): https://youtube.com/shorts/8zASkPSO5p0?feature=share
+
 DEMO Lab 8 (Potentiometer): https://youtube.com/shorts/aSvMhWtHJ9k?feature=share
+
 DEMO Lab 11 (Mouse): https://youtube.com/shorts/rr_uVjQlV2Y?feature=share
 
 ## C++ Application Lab 6:
