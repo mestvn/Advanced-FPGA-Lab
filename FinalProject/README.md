@@ -3,7 +3,7 @@
 DEMO: https://youtube.com/shorts/PVdvjI3AeuI?feature=share
 
 ## C++ Main Application
-Most of source code was provided. - only had to meet four parameters of the project.
+Most of source code was provided. - met four parameters of the project.
 
     1) Moving Sprite - Sprite Core w/ Mouse Pointer
     2) Mouse/Keyboard - Ps2 Core for Mouse
